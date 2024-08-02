@@ -15,27 +15,27 @@
 		<item key="DIALOG_X_ORIGIN" value="0"/>
 		<item key="DIALOG_Y_ORIGIN" value="0"/>
 		<item key="DIALOG_WIDTH" value="756"/>
-		<item key="DIALOG_HEIGHT" value="940"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.163636|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
+		<item key="DIALOG_HEIGHT" value="1017"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.163636|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="207"/>
-		<item key="DIALOG_Y_ORIGIN" value="209"/>
+		<item key="DIALOG_X_ORIGIN" value="28"/>
+		<item key="DIALOG_Y_ORIGIN" value="291"/>
 		<item key="DIALOG_WIDTH" value="563"/>
 		<item key="DIALOG_HEIGHT" value="500"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.163636|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.163636|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="false"/>
 	</section>
 	<section name="NewClassCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="614"/>
-		<item key="DIALOG_Y_ORIGIN" value="173"/>
+		<item key="DIALOG_X_ORIGIN" value="602"/>
+		<item key="DIALOG_Y_ORIGIN" value="145"/>
 		<item key="DIALOG_WIDTH" value="630"/>
-		<item key="DIALOG_HEIGHT" value="765"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.163636|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
+		<item key="DIALOG_HEIGHT" value="753"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.163636|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="OptionalMessageDialog.hide.">
 		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
@@ -51,5 +51,11 @@
 	<section name="RefactoringWizard.preview">
 		<item key="width" value="600"/>
 		<item key="height" value="400"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item key="renameSubpackages" value="false"/>
+		<item key="updateTextualMatches" value="false"/>
+		<item key="updateQualifiedNames" value="false"/>
+		<item key="patterns" value="*"/>
 	</section>
 </section>
